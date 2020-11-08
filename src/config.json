@@ -1,0 +1,6 @@
+{
+    "prefix": "Prefix",
+    "token": "Your Token",
+    "ownerid": "Your ownerid",
+    "mongourl": "mongodb url"
+}
