@@ -1,2 +1,2 @@
 # CounterBot
-A discord counter bot, easy to setup for own hosting
+CounterBot is a discord bot, which is easy to setup for own use. just edit the config.json and you are good to go.
